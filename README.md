@@ -20,8 +20,9 @@ https://github.com/Ezemz2015/EzzeBoom.git
 
 ### Comando ejecutar: ###
 
-python EzzeBoom.py
+python3 EzzeBoom.py
 
+python3 boom.py
 
 ### Función de la herramienta: ###
 
